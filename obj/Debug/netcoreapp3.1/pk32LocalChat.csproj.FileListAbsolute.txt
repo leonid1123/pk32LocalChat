@@ -24,3 +24,4 @@ D:\repos\pk32LocalChat\obj\Debug\netcoreapp3.1\pk32LocalChat.dll
 D:\repos\pk32LocalChat\obj\Debug\netcoreapp3.1\pk32LocalChat.pdb
 D:\repos\pk32LocalChat\obj\Debug\netcoreapp3.1\pk32LocalChat.genruntimeconfig.cache
 D:\repos\pk32LocalChat\obj\Debug\netcoreapp3.1\pk32LocalChat.Form2.resources
+D:\repos\pk32LocalChat\obj\Debug\netcoreapp3.1\pk32LocalChat.Form3.resources

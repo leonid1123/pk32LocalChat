@@ -27,7 +27,7 @@ namespace pk32LocalChat
                 MessageBox.Show("Всё пропало!");
             }
             login = textBox1.Text.Trim();
-            password = textBox1.Text.Trim();
+            password = textBox2.Text.Trim();
             if (login.Length > 0 & password.Length > 0)
             {
                 string sql1 = "SELECT password FROM auth WHERE login = @login";
@@ -44,6 +44,12 @@ namespace pk32LocalChat
                         if (password.Equals(storedPassword))
                         {
                             MessageBox.Show("всё хорошо");
+                            Form3 form3 = new Form3();
+                            form3.Show();
+                            this.Hide();
+                        } else
+                        {
+                            MessageBox.Show("что-то не так");
                         }
                     }
                 }
