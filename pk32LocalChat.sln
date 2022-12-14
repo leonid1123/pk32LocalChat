@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pk32LocalChat", "pk32LocalChat.csproj", "{E142FE59-CBFF-453D-B8C2-CF5BB18D80CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E142FE59-CBFF-453D-B8C2-CF5BB18D80CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E142FE59-CBFF-453D-B8C2-CF5BB18D80CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E142FE59-CBFF-453D-B8C2-CF5BB18D80CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E142FE59-CBFF-453D-B8C2-CF5BB18D80CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868E2181-BDD4-40E4-BC36-37A4AE09628E}
+	EndGlobalSection
+EndGlobal
